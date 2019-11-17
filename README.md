@@ -2,6 +2,4 @@
 
 the blog
 
-[連接到index](index.html)
-
 
